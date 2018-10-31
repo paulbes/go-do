@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/paulbes/go-do.svg?branch=master)](https://travis-ci.com/paulbes/go-do)
+
 # godo
 
 Go, do! Simplify execution of command line operations and their intersection with a proper programming language. (Bash who?)
